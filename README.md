@@ -1,6 +1,7 @@
 # Lab 5: Static Code Analysis
 
-**Student:** Adyansh Aggarwal 
+**Student:** Adyansh Aggarwal
+
 **Course:** Software Engineering  
 **Date:** October 15, 2025
 
